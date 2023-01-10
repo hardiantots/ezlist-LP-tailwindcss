@@ -17,9 +17,9 @@
 }
 
 .nav--small{
-    @apply transition-none duration-500
+    @apply transition-all
 }
 
 .nav--small.active {
-    @apply left-0 transition duration-500
+    @apply left-0
 }
